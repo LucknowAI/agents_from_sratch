@@ -7,7 +7,6 @@ Three implementations of the same travel planning AI agent, each built with a di
 | `agent_python.py` | Plain Python — manual agent loop, no framework |
 | `agent_langchain.py` | LangChain — framework handles the loop |
 | `agent_pydantic_ai.py` | Pydantic AI — minimal, decorator-based |
-| `agents_from_scratch.ipynb` | Jupyter notebook walkthrough of all three |
 
 Each agent can search the web (via Serper) and answer travel planning questions.
 
