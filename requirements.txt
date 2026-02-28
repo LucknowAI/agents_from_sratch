@@ -1,0 +1,5 @@
+litellm
+requests
+pydantic-ai
+langchain
+langchain-groq
